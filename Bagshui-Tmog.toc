@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Bagshui-Tmog
+## Notes: Add Turtle WoW support to Bagshui's Transmog() rule function via Tmog.
+## Author: veechs
+## Version: 1.0
+## Dependencies: Bagshui, Tmog
+
+Bagshui-Tmog.lua

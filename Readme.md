@@ -13,7 +13,7 @@ Create a [Category](https://github.com/veechs/Bagshui/wiki/Categories) to accomp
 
 1. Install [Bagshui](https://github.com/veechs/Bagshui).
 2. Install [Tmog](https://github.com/Otari98/Tmog).
-3. Coninue below to install Bagshui-Tmog.
+3. Continue below to install Bagshui-Tmog.
 
 ### Easy mode (recommended)
 
@@ -29,9 +29,9 @@ Use [GitAddonsManager](https://woblight.gitlab.io/overview/gitaddonsmanager/).
    <sup>*These are all **wrong**:*  
     × `Bagshui-Tmog-main\Bagshui-Tmog.toc`  
     × `Bagshui-Tmog\Bagshui-Tmog\Bagshui-Tmog.toc`  
-	  × `Bagshui-Tmog\Bagshui-Tmog-main\Bagshui-Tmog.toc`
+    × `Bagshui-Tmog\Bagshui-Tmog-main\Bagshui-Tmog.toc`
    </sup>
 
 # Credits
 
-Thanks to Otari90 for creating Tmog to handle all the heavy lifting of dealing with the Turtle WoW transmog API.
+Thanks to Otari90 for creating Tmog.

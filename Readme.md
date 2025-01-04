@@ -17,7 +17,8 @@ Create a [Category](https://github.com/veechs/Bagshui/wiki/Categories) to accomp
 
 ### Easy mode (recommended)
 
-Use [GitAddonsManager](https://woblight.gitlab.io/overview/gitaddonsmanager/).
+Use [GitAddonsManager](https://woblight.gitlab.io/overview/gitaddonsmanager/).  
+<sup>Or any tool that supports Git.</sup>
 
 ### Manual
 

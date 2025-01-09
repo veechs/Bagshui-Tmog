@@ -35,4 +35,4 @@ Use [GitAddonsManager](https://woblight.gitlab.io/overview/gitaddonsmanager/).
 
 # Credits
 
-Thanks to Otari90 for creating Tmog.
+Thanks to [Spit](https://github.com/otari98) for creating Tmog.
